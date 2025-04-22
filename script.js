@@ -15,7 +15,7 @@ let dltbtn= document.createElement("button");
 dltbtn.innerText='delete';
 dltbtn.classList.add("dltbtn");
 li.appendChild(dltbtn);
-
+ 
 ul.appendChild(li);
 input.value=""; 
 
