@@ -17,7 +17,7 @@ dltbtn.classList.add("dltbtn");
 li.appendChild(dltbtn);
 
 ul.appendChild(li);
-input.value="";
+input.value=""; 
 
 })
 ul.addEventListener("click",function(event){
